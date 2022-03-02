@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### Studies 🎓:
-<img width=70px src="unipi_logo.png" /> &nbsp; <img width=70px src="uniba_logo.png" /> &nbsp;  
+<img width=70px src="unipi_logo.png" /> &nbsp; <img width=70px src="universita-degli-studi-di-salerno-unisa-logo-CB7C462BBB-seeklogo.com.png" /> &nbsp;  
 * **Master's degree:** I am currently a MSc student in **Data Science and Business Informatics** @ University of _Pisa_
 * **Bachelor's degree:** I graduated in Computer Engineering **** @ University of Salerno<br>
 
