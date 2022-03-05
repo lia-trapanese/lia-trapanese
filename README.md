@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 * **Master's degree:** I am currently a MSc student in **Data Science and Business Informatics** @ University of _Pisa_
 * **Bachelor's degree:** I graduated in **Computer Engineering**  @ University of Salerno<br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liatr98)](https://github.com/anuraghazra/github-readme-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liatr98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lia-trapanese)](https://github.com/anuraghazra/github-readme-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liatr98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
